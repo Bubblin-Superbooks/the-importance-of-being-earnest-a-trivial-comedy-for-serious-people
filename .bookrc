@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
-  "type": "text"
+  "name": "The Importance of Being Earnest.",
+  "type": "text",
+  "book_id": 487
 }
